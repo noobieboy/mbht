@@ -1,6 +1,8 @@
 # MBHT
 
-
+			
+			
+			
 
 
 
@@ -23,7 +25,7 @@
 #Installing
 
 
-    • git clone https://github.com/nahamsec/bbht.git 
-    • cd bbht 
-    • chmod +x install.sh 
-    • ./install.sh 
+    • git clone https://github.com/noobieboy/mbht.git
+    • cd mbht 
+    • chmod +x setup.sh 
+    • ./setup.sh 
